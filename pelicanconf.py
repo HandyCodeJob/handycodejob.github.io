@@ -36,8 +36,8 @@ DEFAULT_PAGINATION = 10
 # Style Stuff
 THEME = 'lannisport'
 
-SITELOGO = "images/logo.svg" #: an image around 100px square
-SITETAGLINE = "Mike & Zoey's life style blog" #: a short sentence that describes your site
+SITELOGO = "static/images/logo.svg" #: an image around 100px square
+#SITETAGLINE = "Mike & Zoey's life style blog" #: a short sentence that describes your site
 SITEDESCR = "Mike & Zoey live in Boise, ID together. They love good food and happy hour!" #: a longer description of your site
 GITHUB_URL = "https://github.com/mikemhenry" #: URL to your GitHub page, for the social icons
 #LINKEDIN_URL #: URL to your LinkedIn page, for the social icons
@@ -47,7 +47,7 @@ TWITTER_URL = "https://twitter.com/ZoeyHogue" #: URL to your Twitter page, for t
 #FLICKR_URL#: URL to your Flickrpage, for the social icons
 LICENSE_NAME = "CC BY-NC-SA"#: the license for your content (e.g. CC BY-SA)
 LICENSE_URL = "http://creativecommons.org/licenses/by-nc-sa/4.0/" #: the link to where the full text of your license is
-#ARCHIVES_URL#: the link to your archives
+ARCHIVES_URL = "archives.html" #: the link to your archives
 #CONTACT_URL#: the link to your contact page
 
-STATIC_PATHS = ['static/images']
+STATIC_PATHS = ['static']
