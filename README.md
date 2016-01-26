@@ -8,4 +8,4 @@ Theme located [here](https://github.com/mikemhenry/materialistic-pelican)
 
 Code is GPLv3
 
-content/articles/* is [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+content/* is [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)
