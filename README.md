@@ -4,7 +4,7 @@ Still a work in progress
 
 Repo for this [blog](http://blog.mikeandzoey.com)
 
-Theme located [here](https://github.com/mikemhenry/lannisport)
+Theme located [here](https://github.com/mikemhenry/materialistic-pelican)
 
 Code is GPLv3
 
