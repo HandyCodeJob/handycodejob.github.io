@@ -67,3 +67,6 @@ output/*
 
 # Static Files
 content/static/*
+
+# Theme repo
+materialistic-pelican
