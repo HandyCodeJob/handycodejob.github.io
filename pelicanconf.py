@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Mike & Zoey'
-SITENAME = 'Mike & Zoey'
-SITEURL = ''
+AUTHOR = 'Handy Code Job, LLC'
+SITENAME = 'Handy Code Job'
+SITEURL = 'handycodejob.com'
 
 PATH = 'content'
 
@@ -27,9 +27,9 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 
-SOCIAL = (('Github', 'https://github.com/mikemhenry'),
-          ('Instagram', 'https://www.instagram.com/zoeyhogue/'),
-          ('Twitter', 'https://twitter.com/ZoeyHogue'))
+SOCIAL = (('Github', 'https://github.com/handycodejob'),
+          ('YouTube', 'https://www.youtube.com'),
+          ('Bitbucket', 'https://bitbucket.com/handycodejob'))
 
 DEFAULT_PAGINATION = 10
 
@@ -51,6 +51,6 @@ LICENSE_NAME = "CC BY-NC-SA"#: the license for your content (e.g. CC BY-SA)
 LICENSE_URL = "http://creativecommons.org/licenses/by-nc-sa/4.0/" #: the link to where the full text of your license is
 ARCHIVES_URL = "archives.html" #: the link to your archives
 #CONTACT_URL#: the link to your contact page
-PRIMARY_COLOR = 'Deep Purple'
-ACCENT_COLOR = 'Indigo'
+PRIMARY_COLOR = 'Cyan'
+ACCENT_COLOR = 'Blue'
 STATIC_PATHS = ['static']
