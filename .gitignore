@@ -63,10 +63,10 @@ target/
 .ipynb_checkpoints
 
 # Pelican Output
-# output/*
+output/*
 
 # Static Files
-# content/static/*
+content/static/*
 
 # Theme repo
 materialistic-pelican
